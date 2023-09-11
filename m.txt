@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 hello MY world
 =======
-hello my world haha
+hello my world
 >>>>>>> dev
